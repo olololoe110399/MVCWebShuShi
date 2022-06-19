@@ -1,0 +1,29 @@
+.contact p{
+    width: 170px;
+}
+
+.info{
+    float: left;
+    width: 40%;
+}
+
+.opening{
+    float: right;
+    width: 40%;
+}
+
+.map{
+    width: 80%;
+    clear: both;
+}
+
+.border-map{
+    border-top: 1px dashed gray;
+}
+
+.border-map img{
+    
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

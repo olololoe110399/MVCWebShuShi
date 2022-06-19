@@ -42,5 +42,6 @@ Project Creator<br/>
 <img src="screen_short/detail_page.png">
 
 <h1>This is gif sample</h1>
-![](mvcwebshushi.gif)
+
+![gif](mvcwebshushi.gif)
 

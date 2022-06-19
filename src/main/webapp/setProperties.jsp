@@ -14,7 +14,7 @@
 </head>
 <body>
 <jsp:useBean id="user" class="com.example.mvcwebshushi.entity.User" scope="application"/>
-<jsp:setProperty property="firstName" name="user" value="NewPerson"/>
+<jsp:setProperty property="firstName" name="user" value="Ngoc Duy"/>
 <jsp:setProperty property="lastName" name="user" value="Nguyen"/>
 </body>
 </html>
